@@ -1,0 +1,71 @@
+body{
+     background-color: rgb(26, 85, 156);
+}
+.navbar{
+    background-color:rgb(253, 245, 245);
+   
+}
+
+.caption {
+    margin-top: 70px;
+    color: white; /* Adjusted to make "Welcome at our" white */
+}
+
+  .caption .name {
+    color: black; /* Add this line to make "Dashboard" black */
+  }
+  
+span{
+    color: rgb(112, 205, 243);
+}
+.navbar a{
+    color: rgb(112, 205, 243);;
+    transition: 1s;
+}
+
+.feeds-header{
+    color: white;
+}
+.card-text{
+    text-align: center;
+    color: grey;
+     border: 1px solid black;
+    border-top: 1px solid blue;
+    border-bottom: 2px solid red;
+    border-radius: 5px;
+    padding: 3px;
+    transition: 1s;
+}
+.card{
+    margin-bottom: 25px;
+    transition: 1s;
+}
+.card:hover{
+    box-shadow: 0px 2px 45px rgba(255, 255, 255, 0.5);
+}
+.card-text.instagram{
+    text-align: center;
+    color: grey;
+     border: 1px solid black;
+    border-top: 1px solid blue;
+    border-bottom: 2px solid red;
+    border-radius: 5px;
+    padding: 3px;
+    transition: 1s;
+}
+.card-text.instagram:hover{
+    background-color: rgb(179, 59, 67);
+    color: white;
+}
+.card-text:hover{
+    background-color: rgb(51, 43, 131);
+    color: white;
+}
+.feeds-page{
+    text-decoration: none;
+   
+}
+/* facebook style */
+h1{
+    color: gray;
+}

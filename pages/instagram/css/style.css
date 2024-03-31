@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(26, 85, 156);
+}
+.numbers{
+    font-size: 30px;
+    padding-bottom: 0;
+    margin-bottom: 0;
+}
+ .card.left{
+padding-left: 20px;} 
+p{
+    color:brown;
+}
+.card-text{
+    font-size: 50px;
+    color: brown;
+}
+/* .progress{
+} */
+.last{
+    margin-bottom: 100px;
+}
